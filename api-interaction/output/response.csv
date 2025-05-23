@@ -1,0 +1,7 @@
+Category,Grade,Comment
+Download,1,The student's code successfully downloads the required dataset.
+Clean,1,"The student's code properly cleans the data by creating a new DataFrame that includes the species and the count of each species, and then saves this cleaned data to a new CSV file."
+Comments,2,"The student's code is excellent in terms of comments. It thoroughly explains what each part of the code is doing, providing clarity and making the code easier to understand."
+Captions,1,"The caption ""Palmer Penguins Species Count"" is brief and does not convey the main point independently of the text. It could be improved by including a summary of the data or the conclusion drawn from it."
+Figures,2,"The bar graph is functional and appears to be correctly formatted, though without the actual visuals it's hard to be sure. The labels for the x and y axes are clear. However, a title for the graph and better colour distinction could improve the visualization."
+Sentence,2,The description of the figure is accurate and provides insight into the species distribution among the penguins.

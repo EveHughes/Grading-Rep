@@ -1,8 +1,8 @@
-Download Data
+Download
 0 - 'No'; 1 - 'Yes'
 Data is downloaded correctly.
 
-Clean data
+Clean
 0 - 'No'; 1- 'Yes'
 Data is cleaned correctly.
 
