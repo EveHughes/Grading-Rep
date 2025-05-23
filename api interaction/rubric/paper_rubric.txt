@@ -1,0 +1,11 @@
+Captions
+0 - 'Poor or not done'; 1 - 'Acceptable'; 2 - 'Excellent'
+Figures and tables have detailed captions that convey the main point independently of the text.
+
+Graphs and tables
+0 - 'Poor or not done'; 1 - 'Some issues'; 2 - 'Acceptable'; 3 - 'Impressive'; 4 - 'Exceptional'
+Graphs and tables must be high-quality, properly labeled and formatted.
+
+Sentence Description
+0- 'Poor or not done'; 1 - 'Acceptable'; 2 - 'Excellent'
+Sentence(s) accurately describe the figure and provide insight.

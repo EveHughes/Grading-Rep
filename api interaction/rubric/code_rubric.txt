@@ -1,0 +1,11 @@
+Download Data
+0 - 'No'; 1 - 'Yes'
+Data is downloaded correctly.
+
+Clean data
+0 - 'No'; 1- 'Yes'
+Data is cleaned correctly.
+
+Comments
+0 - 'Poor or not done'; 1- 'Acceptable'; 2- 'Excellent'
+Code has clear comments that provide clarity.

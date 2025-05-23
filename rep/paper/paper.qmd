@@ -1,0 +1,12 @@
+```{python}
+#| label: tbl-species
+#| tbl-cap: "Palmer Penguins Species Count"
+#| echo: false
+
+#set up
+import pandas as pd
+
+df = pd.read_csv("../data/cleaned_data.csv")
+df.plot.bar(x='species', y='count', rot=0)
+```
+@tbl-species illustrates that Adelie penguins comprise the greatest proportion of penguins, followed by Gentoo penguins and then Chinstrap penguins. There are nearly double the amount of Gentoo penguins as compared to Chinstrap penguins.
